@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souhail Ouabou</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
 
-- 💬 Ask me about **MERN ,React native**
+- 💬 Ask me about **Reactjs,Nextjs,Nodejs,React native**
 
 - 📫 How to reach me **souhai7ouabou@gmail.com**
 
