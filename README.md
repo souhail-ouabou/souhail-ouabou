@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Reactjs,Nextjs,Nodejs,React native**
 
-- 📫 How to reach me **souhai7ouabou@gmail.com**
+- 📫 How to reach me **souhai7ouabou@gmail.com** or <a href="https://linkedin.com/in/souhail-ouabou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/souhail-ouabou/" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
