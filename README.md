@@ -19,9 +19,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,git,nodejs,react,tailwind,nextjs,express,redux,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,docker,tailwind,express,redux,mongodb,js,ts,git" />
   </a>
 </p>
 
