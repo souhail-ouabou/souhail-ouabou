@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souhail Ouabou</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
 
-- 💬 Ask me about **ReactJs,NextJs,NodeJs,Dockers** 💬 
+- 💬 Ask me about **ReactJs,NextJs,NodeJs,Docker,Kubernetes** 💬 
 
 
 
