@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Souhail Ouabou</h1>
+<h1 align="center">Hi 👋, I'm Souhail Ouabou</h1>
 <h3 align="left">A passionate web developer from Morocco</h3>
 
 - 💬 Ask me about **ReactJs,NextJs,NodeJs,Docker,Kubernetes** 
